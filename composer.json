@@ -2,7 +2,7 @@
     "name": "animir/html-to-array",
     "description": "Translate HTML into SimpleXMLElement, DOM or array",
     "keywords": ["html-to-array", "parse", "html", "array", "html translator"],
-    "version": "0.1",
+    "version": "0.0.1",
     "authors": [
         {
             "name": "animir",
